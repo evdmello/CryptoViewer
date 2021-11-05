@@ -4,7 +4,7 @@ Simple iOS Application built using UIKit displaying the list of Cryptocurrencies
 Home Screen: 
   - Displays list of cryptocurrencies with Icon, Name, Live Price and Percent Variation since last 24 hours.
   ![Home-1](./Screenshots/"Simulator Screen Shot - iPhone 13 - 2021-11-05 at 15.30.31.png" | width=100)
-  
+  <img src="./Screenshots/Simulator Screen Shot - iPhone 13 - 2021-11-05 at 15.30.31.png" width="200"/>
   
 Detailed Coin Screen:
   - Displays a line graph denoting the value variation over the last 24 Hours.
