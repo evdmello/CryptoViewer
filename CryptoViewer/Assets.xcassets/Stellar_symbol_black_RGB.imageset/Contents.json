@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Stellar_symbol_black_RGB.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
